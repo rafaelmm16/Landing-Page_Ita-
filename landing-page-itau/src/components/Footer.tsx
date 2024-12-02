@@ -25,7 +25,7 @@ export function Footer(){
                 </div>
             </Container>
             <div className="flex-1 text-center w-full">
-                <p className="text-white">Desenvolvido por  <a href="https://www.linkedin.com/in/gstavohnz/" className="font-bold hover:text-gray-phone">Gustavo Henz</a></p>
+                <p className="text-white">Desenvolvido por  <a className="font-bold hover:text-gray-phone">Rafael M</a></p>
             </div>
         </footer>
     )

@@ -1,2 +1,2 @@
-# Landing-Page_Ita-
+# Landing-Page_Itau
 Desenvolvido para Estudo de React + NextJS + Tailwind
